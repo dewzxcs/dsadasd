@@ -1,4 +1,4 @@
-pylibgen.py
-python-telegram-bot.py
-requests.py
-emoji.py
+pylibgen==1.3.1
+python-telegram-bot==11.1.0
+requests.py==2.7.0
+emoji.py==0.5.1
